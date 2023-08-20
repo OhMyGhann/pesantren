@@ -62,7 +62,7 @@ Catatan: <i>User Role</i> yang ada: <b>Administrator, Pengurus, Santri</b>
 ### ⚡️ Instalasi
 1. Kloning repo ini dengan menjalankan perintah berikut pada terminal
 ```bash
-git clone https://github.com/dibaliqaja/pesantren-cms.git
+git clone [https://github.com/OhMyGhann/pesantren]
 ```
 2. Setelah selesai, pindah ke direktori aplikasi
 ```bash
@@ -70,7 +70,7 @@ cd pesantren-cms
 ```
 3. Install Composer <i>dependencies</i>
 ```bash
-composer install
+composer install/update
 ```
 4. Install NPM <i>dependencies</i>
 ```bash
