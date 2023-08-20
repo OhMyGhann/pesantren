@@ -62,7 +62,7 @@ Catatan: <i>User Role</i> yang ada: <b>Administrator, Pengurus, Santri</b>
 ### ⚡️ Instalasi
 1. Kloning repo ini dengan menjalankan perintah berikut pada terminal
 ```bash
-git clone [https://github.com/OhMyGhann/pesantren]
+git clone https://github.com/OhMyGhann/pesantren.git
 ```
 2. Setelah selesai, pindah ke direktori aplikasi
 ```bash
